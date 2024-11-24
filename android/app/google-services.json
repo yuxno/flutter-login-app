@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031430759247",
+    "project_id": "ptt-login-acab7",
+    "storage_bucket": "ptt-login-acab7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031430759247:android:7d6ea41f610d40eb8a5b3a",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBrOzhyMIxYiy7YViDNrtzt99GGD0oEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
