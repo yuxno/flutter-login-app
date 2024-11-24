@@ -1,16 +1,11 @@
-# login
+# login App
 
-A new Flutter project.
+a flutter login app, using firebase for backend handling
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# features
+## login page
+users can login into their account using email and password.
+## sign up page
+users can create a new account, using username, email and password, email and password have criteria to be respected, like email structure and password strength checking.
+## welcome page
+after login/signing up, users are directed to a cute welcome page.
